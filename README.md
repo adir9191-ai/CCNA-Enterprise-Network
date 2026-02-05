@@ -26,8 +26,5 @@ network infrastructure using Cisco technologies.
 - Confirmed ACL enforcement and NAT translation
 - Ensured network resilience during device failures
 
-## Documentation
-Due to file size limitations, the complete step-by-step project documentation
-is available upon request "https://github.com/user-attachments/assets/2135a143-2860-4fcd-8efb-0e708548de4f"
 
 
